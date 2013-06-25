@@ -1,0 +1,15 @@
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	df = diff
+[user]
+	name = Mark van Alphen
+	email = mark@prezent.nl
+[github]
+	user = MarkvanAlphen
+[core]
+	excludesfile = ~/.dotfiles/gitignore
+[color]
+	diff = auto
+	status = auto
