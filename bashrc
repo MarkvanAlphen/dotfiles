@@ -114,5 +114,3 @@ if [ ! $? = 0 ]; then
   PATH=$HOME/bin:$PATH
 fi
 export PATH
-
-export LC_TIME=nl_NL.utf8

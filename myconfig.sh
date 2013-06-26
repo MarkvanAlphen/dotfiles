@@ -1,3 +1,5 @@
 #!/bin/bash
-ln -s gitconfig ../.gitconfig
-ln -s bashrc ../.bashrc
+cd ~
+ln -s .dotfiles/gitconfig .gitconfig
+ln -s .dotfiles/bashrc .bashrc
+ln -s .dotfiles/profile .profile
